@@ -1,17 +1,18 @@
-# 👋 Salut ! Bienvenue sur mon profil GitHub 😊  
-
-## 🚀 À propos de moi :
-- **Développeur Back-end .NET** avec expertise en **ASP.NET Core Microservices**
-- **Ingénieur ESTP** et titulaire d'un **MBA en Entrepreneuriat**  
-- Passionné de **nouvelles technologies, jeux vidéo, et musique métal** 🎸
+## Général : 
+- **Développeur d'application back-end .NET**
+- **Ingénieur ESTP** et titulaire d'un **MBA à l'IAE Panthéon Sorbonne**  
+- Passionné de nouvelles technologies, jeux vidéo, et musique métal 🎸
 
 ---
 
 ## 📚 Formations & Certifications :
-- 🏫 **Ingénieur ESTP** – **Master Administration des Entreprises**  
-- 🎓 **Développeur .NET (OpenClassrooms)**  
+- **Développeur .NET (OpenClassrooms)**
+– **Master Administration des Entreprises, IAE Panthéon Sorbonne**
+- **Ingénieur ESTP**
+- Classe Préparatoire aux Grandes Ecoles, Mathématique Physique
+  
 - 🏅 **Certifications :**
-  - C# et C++ (SoloLearn)
+  - C, C++ et C# (SoloLearn)
   - HTML5/CSS3 (OpenClassrooms)
   - Angular (SoloLearn)
 
