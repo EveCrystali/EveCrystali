@@ -1,7 +1,12 @@
-## Général : 
+## 🌟 Général :
 - **Développeur d'application back-end .NET**
 - **Ingénieur ESTP** et titulaire d'un **MBA à l'IAE Panthéon Sorbonne**  
 - Passionné de nouvelles technologies, jeux vidéo, et musique métal 🎸
+
+## 👨‍💻 À propos :
+Après plusieurs années en tant qu’**ingénieur chargé d’affaires**, j’ai décidé de suivre ma passion pour les nouvelles technologies et l’informatique en me lançant dans une reconversion professionnelle.  
+Aujourd’hui, je suis **développeur back-end .NET** ! 
+
 
 ---
 
@@ -37,10 +42,17 @@
 ---
 
 ## 🧰 **Outils & Technologies :**
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+![Rider (JetBrains)](https://img.shields.io/badge/-Rider-000000?logo=jetbrains&logoColor=white)
+![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white)
+![Windsurf](https://img.shields.io/badge/-Windsurf-0052CC?logo=windows&logoColor=white)
+![Obsidian](https://img.shields.io/badge/-Obsidian-483699?logo=obsidian&logoColor=white)
+![Pieces for Developers](https://img.shields.io/badge/-Pieces_for_Developers-FF4088?logo=pieces&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
+![Agile](https://img.shields.io/badge/-Méthodes%20Agiles-2496ED?logo=scrum&logoColor=white)
 
 ---
 
