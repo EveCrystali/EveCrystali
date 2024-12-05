@@ -9,14 +9,15 @@ Aujourd’hui, je suis **développeur back-end .NET** !*
 
 ---
 
-# 📚 Formations & Certifications :
+# 📚 Diplôme & Certifications :
 
-- **Développeur .NET (OpenClassrooms)**
+## 👨🏻‍🎓 Diplômes 
+- **Développeur d'application back-end .NET (OpenClassrooms)**
 - **Master Administration des Entreprises, IAE Panthéon Sorbonne**
 - **Ingénieur ESTP**
 - Classe Préparatoire aux Grandes Ecoles, Mathématique Physique
-  
-- 🏅 **Certifications :**
+
+## 🏅 Certifications 
   - C, C++ et C# (SoloLearn)
   - HTML5/CSS3 (OpenClassrooms)
   - Angular (SoloLearn)
