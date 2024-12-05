@@ -35,6 +35,7 @@ Aujourd’hui, je suis **développeur back-end .NET** !*
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?logo=dotnet&logoColor=white)
+![PostSharp](https://img.shields.io/badge/-PostSharp-512BD4?logo=postsharp&logoColor=white)
 
 ## 🔹 **Bases de Données** :
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
