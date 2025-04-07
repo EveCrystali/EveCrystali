@@ -1,11 +1,11 @@
-# 🌟 Général 👨‍💻 :
+# 🌟 Général 👨‍💻 : Développeur C# .NET
 
 *Après plusieurs années en tant qu’**ingénieur chargé d’affaires**, j’ai décidé de suivre ma passion pour les nouvelles technologies et l’informatique en me lançant dans une reconversion professionnelle.  
 Aujourd’hui, je suis **développeur C# .NET** !* 
 
-### - **Développeur C# .NET**
-### - **Ingénieur ESTP** et titulaire d'un **MBA à l'IAE Panthéon Sorbonne**  
-### - Passionné de nouvelles technologies, jeux vidéo, et musique métal 🎸
+### - **Développeur concepteur logiciel C# .NET**
+##### - **Ingénieur ESTP** et titulaire d'un **MBA à l'IAE Panthéon Sorbonne**  
+##### - Passionné de nouvelles technologies, jeux vidéo, et musique métal 🎸
 
 ---
 
