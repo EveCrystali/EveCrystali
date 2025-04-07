@@ -18,7 +18,7 @@ Aujourd’hui, je suis **développeur back-end .NET** !*
 - Classe Préparatoire aux Grandes Ecoles, Mathématique Physique
 
 ## 🏅 Certifications 
-  - C, C++ et C# (SoloLearn)
+  - C, C++ et C# (SoloLearn & OpenClassrooms)
   - HTML5/CSS3 (OpenClassrooms)
   - Angular (SoloLearn)
 
