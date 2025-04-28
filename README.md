@@ -14,7 +14,6 @@ Aujourd’hui, je suis **développeur C# .NET** !*
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=EveCrystali&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
-
 ## 📚 Diplôme & Certifications :
 
 ### 👨🏻‍🎓 Diplômes 
