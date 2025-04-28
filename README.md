@@ -12,6 +12,9 @@ Aujourd’hui, je suis **développeur C# .NET** !*
 
 <a href="https://app.daily.dev/evecrystali"><img src="https://api.daily.dev/devcards/v2/aMOJyq5Idz9q0vOjyhAb4.png?type=wide&r=f72" width="320" alt="Antoine's Dev Card"/></a>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ## 📚 Diplôme & Certifications :
 
 ### 👨🏻‍🎓 Diplômes 
