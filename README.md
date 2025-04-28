@@ -40,7 +40,7 @@ Aujourd’hui, je suis **développeur C# .NET** !*
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?logo=dotnet&logoColor=white)
 [![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-9.0.14-purple.svg)](https://dotnet.microsoft.com/apps/maui)
 [![Avalonia UI](https://img.shields.io/badge/Avalonia-11.2.3-blue.svg)](https://avaloniaui.net)
-[![WindowsAppSDK](https://img.shields.io/badge/WindowsAppSDK-1.6.240923002-blue.svg)](https://developer.microsoft.com/windows/apps/windows-app-sdk/)
+[![WindowsAppSDK](https://img.shields.io/badge/WindowsAppSDK-blue.svg)](https://developer.microsoft.com/windows/apps/windows-app-sdk/)
 ![PostSharp](https://img.shields.io/badge/-PostSharp-512BD4?logo=postsharp&logoColor=white)
 
 ### 🔹 **Backend & DevOps :**
